@@ -1,11 +1,20 @@
-# pwnagotchi-torch-plugins
-Custom plugin repository
+# LARRYGOTCHI-torch-plugins
+
+![Larry the Cat, aka Evil Larry, Destroyer of the Universe](https://cdn3.emoji.gg/emojis/21098-larry-evil.png)
+
+my own personal custom plugin repo for all the stuff i either wanna run on larrygotchi or might wanna hang on to just in case
+
+ima try to copy and paste instructions when necessary as well
+
+shout out to all the chronically online unemployed geniuses making these plugins, never change guys <3
+
+---
 
 Edit your `/etc/pwnagotchi/config.toml` to look like this
 
 ```TOML
 main.custom_plugin_repos = [
-    "https://github.com/jayofelony/pwnagotchi-torch-plugins/archive/master.zip",
+    "https://github.com/ethnnnnn/larrygotchi-torch-plugins/archive/master.zip",
     ]
 ```
 Then run this command: `sudo pwnagotchi plugins update`
