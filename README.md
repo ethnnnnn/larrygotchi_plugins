@@ -6,6 +6,8 @@ my own personal custom plugin repo for all the stuff i either wanna run on larry
 
 ima try to copy and paste instructions when necessary as well
 
+**IMPORTANT NOTE: some of the plugins in here might not be mentioned in this readme, if so plz check if they have their own readme or have it written into comments in the python sources. that said, im super inconsistent with this so i might just be missing smth idk lol**
+
 shout out to all the chronically online unemployed geniuses making these plugins, never change guys <3
 
 ---
